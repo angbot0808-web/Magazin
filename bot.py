@@ -16,7 +16,7 @@ product_id_counter = 1
 user_states = {}  
 
 API_TOKEN = '8202462879:AAFZHeY6WdPtejpz5eFp8Er4GpcMfnHfM8g' # Замените на ваш токен бота
-ADMIN_IDS =  [8349596696] # Список Telegram ID админов
+ADMIN_IDS =  [6437228517] # Список Telegram ID админов
 
 logging.basicConfig(level=logging.INFO)
 
