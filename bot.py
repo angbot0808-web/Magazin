@@ -41,7 +41,7 @@ LANGUAGES = {
         "choose_lang": "🇷🇺 Выберите язык / 🇬🇧 Choose language",
         "lang_ru": "🇷🇺 Русский",
         "lang_en": "🇬🇧 English",
-        "welcome": "👋 Добро пожаловать в магазин цифровых товаров!",
+        "welcome": "👋 Добро пожаловать в магазин компании Велес!",
         "catalog_empty": "Каталог пуст.",
         "choose_category": "Выберите категорию:",
         "category_empty": "В этой категории нет товаров.",
